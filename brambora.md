@@ -1,4 +1,4 @@
-# Brambora
+# Merunka s bramborou
 
 Kutálí se ze dvora
 takhle velká brambora.
