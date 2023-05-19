@@ -1,4 +1,4 @@
-# Autobus
+# Tramvaj
 
 Chvíli krokem, chvíli skokem,
 pojedeme autobusem.
